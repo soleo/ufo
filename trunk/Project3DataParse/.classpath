@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="/Users/ppilos2/Documents/Fall 2011/Cs 424/core.jar"/>
+	<classpathentry kind="lib" path="/Users/ppilos2/Documents/Processing/libraries/Unfolding/library/GLGraphics.jar"/>
+	<classpathentry kind="lib" path="/Users/ppilos2/Documents/Processing/libraries/Unfolding/library/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="/Users/ppilos2/Documents/Processing/libraries/Unfolding/library/Unfolding.jar"/>
+	<classpathentry kind="lib" path="/Users/ppilos2/Documents/Fall 2011/Cs 424/Sample Processing Stuff/mapsGoingBig/trunk/unfolding/lib/gluegen-rt.jar"/>
+	<classpathentry kind="lib" path="/Users/ppilos2/Documents/Fall 2011/Cs 424/Sample Processing Stuff/mapsGoingBig/trunk/unfolding/lib/jogl.jar"/>
+	<classpathentry kind="lib" path="/Users/ppilos2/Documents/Fall 2011/Cs 424/Sample Processing Stuff/mapsGoingBig/trunk/unfolding/lib/libTUIO.jar"/>
+	<classpathentry kind="lib" path="/Users/ppilos2/Documents/Fall 2011/Cs 424/Sample Processing Stuff/mapsGoingBig/trunk/unfolding/lib/opengl.jar"/>
+	<classpathentry kind="lib" path="/Users/ppilos2/Documents/Fall 2011/Cs 424/Sample Processing Stuff/mapsGoingBig/trunk/unfolding/lib/sqlitejdbc-v056.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
